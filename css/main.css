@@ -1,0 +1,26 @@
+body{
+	background-color: #E9EBEE;
+}
+
+h4{
+	text-align: center;
+	margin:3% 0;
+}
+
+.navbar-custom {
+    background-color:#4267B2 !important;
+}
+
+#badge {
+  border-radius: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  padding: 12px;
+  margin: 12px 0;
+  color: black;
+  background-color: #ffffff;
+  /*text-align: center;*/
+}
+
+#badge:hover {
+    border: 1px solid rgba(0, 0, 0, 0.3);
+}
